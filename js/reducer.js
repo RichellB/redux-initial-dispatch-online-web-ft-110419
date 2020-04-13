@@ -1,4 +1,4 @@
-let state
+let state;
 
 function changeState(state, action){
     switch (action.type) {
